@@ -13,6 +13,8 @@ Built using real-world data engineering practices, this repository reflects **3+
 
 The solution follows the **Medallion Architecture** pattern:
 
+![Data Architecture](docs/architecture.png)
+
 ### 🟤 Bronze Layer
 - Raw data ingestion from source systems (ERP & CRM)
 - CSV files loaded into SQL Server
